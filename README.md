@@ -1,1 +1,1 @@
-Medic care responsive website
+Built a simple personal portfolio using html and css
